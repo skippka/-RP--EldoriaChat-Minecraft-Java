@@ -1,0 +1,33 @@
+name: EldoriaChat
+main: me.eldoriaChat.Main
+version: 1.0
+depend:
+  - ProtocolLib
+author: skippka
+softdepend: [PlaceholderAPI,ProtocolLib]
+api-version: '1.20'
+commands:
+  changename:
+  arrest:
+  scprison:
+  slprison:
+  letout:
+  addtime:
+  nrp:
+  try:
+  do:
+  me:
+  gtry:
+  gdo:
+  gme:
+  rp:
+  coin:
+  todo:
+  wh:
+  sh:
+  cube:
+  rpage:
+  birthday:
+  namereset:
+  roll:
+  prison:
