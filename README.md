@@ -1,1 +1,3 @@
-﻿# -RP-         -EldoriaChat-Minecraft-Java
+# -RP-         -EldoriaChat-Minecraft-Java
+
+Minecraft plugin for roleplay
